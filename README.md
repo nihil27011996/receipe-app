@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
+
     <h1>Recipe App</h1>
     <p>This is a Recipe App built using JavaScript, HTML, and CSS. The project leverages Parcel as the bundler and follows Object-Oriented Programming (OOP) principles. Additionally, it integrates with a third-party REST API to fetch recipe data.</p>
 
@@ -117,5 +113,3 @@ cd recipe-app</code></pre>
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
-</body>
-</html>
