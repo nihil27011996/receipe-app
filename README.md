@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/recipe-app.git
+   git clone https://github.com/nihil27011996/recipe-app.git
    ```
 
 2. **Navigate to the project directory:**
